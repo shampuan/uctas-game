@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Üçtaş
+Comment=Nostaljik Üçtaş Oyunu
+Exec=/usr/share/uctas/uctas.py
+Icon=uctasico
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;
+Keywords=uctas;game;oyun;shampuan;
+StartupNotify=true
+GenericName=Board Game
+X-Developer-Page=https://github.com/shampuan
